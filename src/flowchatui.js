@@ -9,7 +9,7 @@ $(".chat_icon").append(function() {
         .attr("id", "flowchat")
         .addClass("flow")
         //.html('<input type="text" id="chat_input" placeholder="Type here...">')
-        .html('<div id="myForm" class="chat-popup"> <form action="mailTo:rutikab1213@gmail.com" class="form-container"><h3>We are ChatConnect</h3><input type="email" placeholder="Type Email" name="msg" required><button id="btn-submit" type="submit">Start</button></form></div>')
+        .html('<div id="myForm" class="chat-popup"> <form action="mailTo:machhanamulya@gmail.com" class="form-container"><h3>We are ChatConnect</h3><input type="email" placeholder="Type Email" name="msg" required><button id="btn-submit" type="submit">Start</button></form></div>')
     )
 });
 
